@@ -1,0 +1,29 @@
+body {
+    background-color: rgb(255, 255, 255);
+    margin: 0;
+    font-family: 'Segoe UI Black', 'Segoe UI','Times New Roman', Times, serif;
+    background-image: url(./sprites/background.png);
+    background-repeat: no-repeat;
+    background-size: cover; 
+}
+
+p {
+    font-family: 'Segoe UI', 'Times New Roman', Times, serif;
+    color:blanchedalmond
+}
+
+a {
+    color: rgb(235, 212, 83);
+    text-decoration: none;
+    font-size: 32px;
+}
+
+a:hover {
+    color: rgb(216, 83, 116);
+    font-size: 34px;
+}
+
+h1 {
+    color: coral;
+    font-size: 28px;
+}

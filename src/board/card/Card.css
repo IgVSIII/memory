@@ -1,0 +1,32 @@
+.card {
+    display: inline-block;
+    height: 306px;
+    width: 196px;
+    background-repeat: no-repeat;
+    background-size: contain;    
+}
+
+.card:hover {
+    cursor: pointer;
+    transform: scale(1.1);  
+}
+
+.card.closeCard {
+    background-image: url(../../sprites/card.png);
+}
+
+.card.card1 {
+    background-image: url(../../sprites/card1.png);
+}
+
+.card.card2 {
+    background-image: url(../../sprites/card2.png);
+}
+
+.card.card3 {
+    background-image: url(../../sprites/card3.png);
+}
+
+.card.card4 {
+    background-image: url(../../sprites/card4.png);
+}

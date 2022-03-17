@@ -1,0 +1,12 @@
+.menu {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    text-align: center;
+    margin: 0px 40px;
+}
+
+.menu .menuWrap {
+    width: 784px;
+}
