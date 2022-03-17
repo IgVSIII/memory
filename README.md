@@ -1,3 +1,3 @@
 # memory
 
-Версия игры memori на React
+Версия игры memory на React
