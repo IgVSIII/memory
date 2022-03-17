@@ -1,3 +1,3 @@
 # memory
 
-page: https://igvsiii.github.io/memory/
+Версия игры memori на React
