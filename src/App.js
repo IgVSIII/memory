@@ -14,6 +14,7 @@ function App() {
       <Router>
         <Routes>
             <Route exact path="/" element={<Menu/>} />
+            <Route exact path="/memory" element={<Menu/>} />
             <Route path="/game" element={<Board/>} />
             <Route path="*" element={<NotFound/>} />
         </Routes>
